@@ -1,4 +1,4 @@
-# Use official Python runtime
+# Use official Python 
 FROM python:3.11-slim
 
 # Set working directory
